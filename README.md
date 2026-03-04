@@ -38,26 +38,26 @@ sino generar hipótesis para análisis posteriores.
 
 Se reportan coeficientes que respaldan los patrones observados visualmente, utilizando el método adecuado según el tipo de variables.
 
-📊### Pearson & Spearman (Visitas y Compras)
+###📊Pearson & Spearman (Visitas y Compras)
 La correlación Pearson evalúa relación lineal.  
 La correlación Spearman evalúa consistencia (monotonía).
 
 La similitud entre ambos valores sugiere una relación
 moderadamente lineal entre visitas y compras.
 
-📊### Punto-biserial: estado suscripcion ingresos mensuales
+###📊Punto-biserial: estado suscripcion ingresos mensuales
 Punto-biserial compara dos grupos (suscrito / no suscrito)
 contra una variable numérica.
 
 El coeficiente indica si existe diferencia entre ambos grupos,
 no causalidad.
 
-📊### V de Cramér: región y tipo de dispositivo
+###📊V de Cramér: región y tipo de dispositivo
 El coeficiente V de Cramér mide la fuerza de asociación entre categorías.  
 Valores cercanos a 0 indican asociación débil.
 
 
-🎯### Hallazgo 1 — Visitas y compras
+###🎯Hallazgo 1 — Visitas y compras
 
 **Evidencia visual:** Scatterplot y heatmap  
 **Evidencia numérica:** Pearson ≈ 0.29
@@ -73,7 +73,7 @@ Que aumentar visitas cause directamente más compras.
 Explorar estrategias para aumentar engagement previo a la compra y
 validarlas mediante experimentos controlados.
 
-🎯### Hallazgo 2 — Suscripción e ingresos
+###🎯Hallazgo 2 — Suscripción e ingresos
 
 **Evidencia numérica:** Punto-biserial: 0.063 (positiva, prácticamente nula)
 
