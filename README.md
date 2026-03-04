@@ -11,6 +11,31 @@ Observamos cómo se relacionan las variables numéricas usando
 - Scatterplot general
 - Scatterplot para pares clave
 
+
+
+<p align="center">
+  <img src="screenshots/Heatmap.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/Scatterplot1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/Scatterplot2.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/Scatterplot3.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/visitas_vs_compras.png" width="800">
+</p>
+
+
+
+
 Se reportan coeficientes que respaldan los patrones observados visualmente, utilizando el método adecuado según el tipo de variables.
 
 ### Pearson & Spearman (Visitas y Compras)
